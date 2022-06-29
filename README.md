@@ -40,7 +40,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React js" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://img.icons8.com/fluency-systems-regular/344/nextjs.png" alt="Next js" width="32" height="32"/>
+	<img src="(https://user-images.githubusercontent.com/62578862/176447059-c730e7c7-259b-46a3-8951-e6a48fb575c2.svg" alt="Next js" width="32" height="32"/>
 </code>
 <code>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="32" height="32"/>

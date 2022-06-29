@@ -1,4 +1,4 @@
-# Hey, there. Welcome to my github profile! :party_blob:
+# Hey, there. Welcome to my github profile! ![alt-text]:party_blob:
 
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 

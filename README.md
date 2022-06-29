@@ -1,4 +1,4 @@
-# Hey, there. Welcome to my github profile! ![alt-text]:party_blob:
+# Hey, there. Welcome to my github profile! :wave:
 
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
@@ -9,7 +9,7 @@
 - 🚩 I'm currently living in Brazil
 - 🔭 Currently, I'm working at [BrasilCash](https://www.brasilcash.com.br/) as a Frontend Developer.
 - 💬 You can chat with me about career and xp in IT industry.
-- ⚡ Fun fact: I love dogs and cats. Therefore, I'm owner of 2 cats :meow_code: (a couple) and two female dogs.
+- ⚡ Fun fact: I love dogs and cats. Therefore, I'm owner of 2 cats :paw_prints: (a couple) and two female dogs.
 
 ### You can find me through here:
 
@@ -34,54 +34,54 @@
 **Application and Data**
 
 <code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React js" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32" height="32"/>
+	<img src="https://img.icons8.com/color/344/nextjs.png" alt="Next js" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>    
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="32" height="32"/>    
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node js" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>    
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32"/>
+	<img src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" width="32" height="32"/>    
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="32" height="32"/>
-	
+	<img src="https://img.icons8.com/color/344/postgreesql.png" alt="Postgre SQL" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="32" height="32"/>
 </code>
 
 **Utilities**
 
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="32" height="32"/>
 </code>
 
 **Business Tools**
 
+<code><img height="32" src="https://img.icons8.com/color/344/azure-1.png" alt="Azure"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>

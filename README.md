@@ -33,10 +33,10 @@
 
 **Application and Data**
 
-<code>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="16" height="16"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React js" width="16" height="16"/>
-</code>
+</div>
 <code>
 	<img src="https://preview.redd.it/ov8qq3zq60l61.jpg?width=128&format=pjpg&auto=webp&s=456d022b930ddfafbe59ff9623e012f21e2df7e2" alt="Next js" width="16" height="16"/>
 </code>

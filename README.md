@@ -34,49 +34,49 @@
 **Application and Data**
 
 <code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React js" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React js" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://preview.redd.it/ov8qq3zq60l61.jpg?width=128&format=pjpg&auto=webp&s=456d022b930ddfafbe59ff9623e012f21e2df7e2" alt="Next js" width="32" height="32"/>
+	<img src="https://preview.redd.it/ov8qq3zq60l61.jpg?width=128&format=pjpg&auto=webp&s=456d022b930ddfafbe59ff9623e012f21e2df7e2" alt="Next js" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="32" height="32"/>    
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="16" height="16"/>    
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node js" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node js" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" width="32" height="32"/>    
+	<img src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" width="16" height="16"/>    
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://img.icons8.com/color/344/postgreesql.png" alt="Postgre SQL" width="32" height="32"/>
+	<img src="https://img.icons8.com/color/344/postgreesql.png" alt="Postgre SQL" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="16" height="16"/>
 </code>
 
 **Utilities**
 
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/>
 </code>
 <code>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="32" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="16" height="16"/>
 </code>
 
 **Business Tools**
